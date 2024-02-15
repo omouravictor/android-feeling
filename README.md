@@ -3,11 +3,13 @@
 </p>
 
 <h1 align="center">Feeling</h1>
-<p align="center">A social network app.</p>
+<p align="center">A social network app</p>
 
 ## Preview
 
 Some application screens:
+
+![feeling-preview](https://github.com/omouravictor/android-feeling/assets/64164023/4752be92-b359-43aa-948f-9baabbea34d6)
 
 ## How to run?
 
