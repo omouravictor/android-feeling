@@ -3,12 +3,13 @@
 </p>
 
 <h1 align="center">Feeling</h1>
+<p align="center">A social network app.</p>
 
-### Preview
+## Preview
 
 Some application screens:
 
-### How to run?
+## How to run?
 
 1. Create a project in Firebase (https://console.firebase.google.com/).
 2. Add the email and password authentication service in the Firebase project.
