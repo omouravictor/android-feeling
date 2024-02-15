@@ -1,12 +1,20 @@
-# Feeling App
+<p align="center">
+  <img src="https://github.com/omouravictor/android-feeling/assets/64164023/b3248533-30e8-4a5c-8ec0-2d1ab3121938" width=15% height=15%>
+</p>
 
-## Como rodar o projeto
+<h1 align="center">Feeling</h1>
 
-1. Crie um projeto no Firebase (https://console.firebase.google.com/).
-2. Adicione o serviço de autenticação por email e senha no projeto Firebase.
-3. Adicione o serviço de banco de dados Realtime Database no projeto Firebase e configure as regras de acesso.
-4. Adicione o serviço de Storage no projeto Firebase.
-5. Clone o projeto e abra no Android Studio.
-6. Configure o Java 8 (coretto-1.8) no Gradle JDK e sincronize o projeto clonado.
-7. Renomeie o nome do pacote do projeto clonado para o nome do pacote do projeto criado no Firebase.
-8. Conecte o projeto clonado ao Firebase **automaticamente** pelo Android Studio **OU** manualmente adicionando o arquivo **google-services.json** na pasta **app**.
+### Preview
+
+Some application screens:
+
+### How to run?
+
+1. Create a project in Firebase (https://console.firebase.google.com/).
+2. Add the email and password authentication service in the Firebase project.
+3. Add the Realtime Database service to the Firebase project and configure access rules.
+4. Add the Storage service to the Firebase project.
+5. Clone the project and open it in Android Studio.
+6. Configure Java 8 (coretto-1.8) in Gradle JDK and synchronize the cloned project.
+7. Rename the package name of the cloned project to the package name of the project created in Firebase.
+8. Connect the cloned project to Firebase **automatically** via Android Studio **OR** manually by adding the **google-services.json** file in the **app** folder.
