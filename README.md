@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omouravictor/android-feeling/assets/64164023/b3248533-30e8-4a5c-8ec0-2d1ab3121938" width=15% height=15%>
+  <img src="https://github.com/omouravictor/android-feeling/assets/64164023/b3248533-30e8-4a5c-8ec0-2d1ab3121938" width=15%>
 </p>
 
 <h1 align="center">Feeling</h1>
