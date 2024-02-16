@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Feeling</h1>
-<p align="center">A social network app</p>
+<p align="center">A social networking app</p>
 
 ## Preview
 
